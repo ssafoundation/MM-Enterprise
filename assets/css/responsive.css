@@ -1,0 +1,690 @@
+    @media only screen and (min-width: 1101px) and (max-width: 1480px) {
+        .product-search input {
+            border: none;
+            width: 200px;
+            height: 40px;
+        }
+        .slider-single-item {
+            width: 100%;
+            height: 400px;
+        }
+        .slider-single-item img {
+            height: 100%;
+        }
+    }
+    
+    @media only screen and (min-width: 992px) and (max-width: 1100px) {
+        .product-search input {
+            border: none;
+            width: 200px;
+            height: 40px;
+        }
+        header.header-main-area .header-navbar a {
+            position: relative;
+            padding: 0px 5px;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 16px;
+        }
+        .slider-single-item {
+            width: 100%;
+            height: 400px;
+        }
+        .slider-single-item img {
+            height: 100%;
+        }
+        .comparison-phone-name h4 {
+            font-size: 14px;
+        }
+        .comparison-image img {
+            width: 50px;
+        }
+        .comparison-c-bottom p {
+            margin: 0;
+            font-size: 14px;
+        }
+        .comparison-c-b-right span {
+            font-size: 13px;
+        }
+    }
+    
+    @media only screen and (min-width: 768px) and (max-width: 991px) {
+        .slider-single-item {
+            width: 100%;
+            height: 400px;
+        }
+        .slider-single-item img {
+            height: 100%;
+        }
+        .header-search-bar input {
+            display: none;
+        }
+        .product-search input {
+            display: none;
+        }
+        .product-name h4 {
+            font-size: 14px;
+        }
+        .product-price h6 {
+            font-size: 13px;
+        }
+        .product-btn a {
+            padding: 5px 5px;
+        }
+        .mobile-search-box-area {
+            /* display: block; */
+            height: 3%;
+            top: 125px;
+        }
+        button.mobil-search-show {
+            display: block;
+        }
+        .header-search-bar.product-search button {
+            display: none;
+        }
+        button#mobile-btn-show {
+            display: block;
+        }
+        .mobile-s-area-single-wrap {
+            text-align: center;
+            padding: 4% 0;
+        }
+        .product-search button {
+            display: none;
+        }
+        button.mobile-search-show {
+            display: block;
+        }
+        .product-title h3 {
+            font-size: 28px;
+            font-weight: 700;
+            color: #f57224;
+        }
+        .comparison-title h3 {
+            color: #f57224;
+            margin-bottom: 20px;
+            font-size: 20px;
+        }
+        .comparison-image img {
+            width: 40px;
+        }
+        .comparison-phone-name h4 {
+            font-size: 15px;
+            margin-left: 4px;
+        }
+        .product-btn a {
+            padding: 5px 0px;
+            font-size: 14px;
+        }
+        .news-content a {
+            color: #f57224;
+            font-weight: 700;
+            font-size: 16px;
+            padding: 7px 0;
+            display: inline-block;
+        }
+        .product-single-item.right-sidebar-item h6 {
+            font-size: 11px;
+        }
+        .comparison-c-bottom p {
+            margin: 0;
+            font-size: 12px;
+        }
+        .comparison-c-b-right {
+            display: flex;
+            font-size: 12px;
+        }
+    }
+    
+    @media only screen and (min-width: 576px) and (max-width: 767px) {
+        .slider-single-item {
+            width: 100%;
+            height: 400px;
+        }
+        .slider-single-item img {
+            height: 100%;
+        }
+        .header-search-bar input {
+            display: none;
+        }
+        .product-search input {
+            display: none;
+        }
+        .product-name h4 {
+            font-size: 16px;
+        }
+        .product-price h6 {
+            font-size: 13px;
+        }
+        .product-btn a {
+            padding: 5px 5px;
+        }
+        .mobile-search-box-area {
+            display: block;
+            height: 2%;
+        }
+        button.mobil-search-show {
+            display: block;
+        }
+        .header-search-bar.product-search button {
+            display: none;
+        }
+        button#mobile-btn-show {
+            display: block;
+        }
+        .footer-copyright-padding {
+            width: 90%;
+            margin: 0 auto;
+            padding: 10px 0;
+            display: block!important;
+        }
+        .copyright-right.d-flex.justify-content-between {
+            display: block!important;
+        }
+        .copyright-right a {
+            color: #fff;
+            padding: 0 3px;
+            font-size: 13px!important;
+        }
+        .footer-bottom-wrap {
+            background: #333333;
+            text-align: center;
+        }
+        .download-app {
+            margin-bottom: 15px;
+            display: block!important;
+        }
+        .footer-top-area h3 {
+            color: #fff;
+            position: relative;
+            display: inline-block;
+            font-size: 25px;
+            margin-bottom: 24px;
+        }
+    }
+    
+    @media only screen and (min-width: 401px) and (max-width: 575px) {
+        header.header-main-area .header-logo img {
+            width: 90px;
+        }
+        .header-search-bar input {
+            display: none;
+        }
+        .product-search input {
+            display: none;
+        }
+        .slider-single-item {
+            width: 100%;
+            height: 250px;
+        }
+        .slider-single-item img {
+            height: 100%;
+        }
+        .product-title h3 {
+            font-size: 12px;
+            font-weight: 700;
+            color: #f57224;
+        }
+        .product-search input {
+            border: none;
+            width: 132px;
+            height: 40px;
+            display: none;
+        }
+        .product-navbar ul li span {
+            padding: 5px 5px;
+            display: inline-block;
+            font-size: 11px;
+        }
+        button.btn {
+            padding: 5px;
+            font-size: 11px;
+        }
+        .product-navbar ul li {
+            margin: 0px 2px;
+            font-size: 11px;
+            padding: 4px 10px;
+        }
+        .product-hover-nav-icon-show {
+            position: absolute;
+            background: #f57224;
+            top: 0;
+            height: 100%;
+            right: -5px;
+            width: 15px;
+            text-align: center;
+            padding: 5px;
+            border-radius: 0px 10px 10px 0;
+        }
+        .product-search button {
+            height: 20px;
+            width: 20px;
+            display: none;
+            font-size: 13px;
+        }
+        .product-main-wrap {
+            width: 100%;
+            margin: 0 auto;
+        }
+        button.mobile-search-show {
+            display: block;
+        }
+        .product-top {
+            padding: 20px 5px;
+        }
+        .nav-toggle {
+            width: 30px;
+            height: 45px;
+        }
+        .body-news-area .owl-nav button.owl-next {
+            position: absolute;
+            right: 0px;
+            outline: none;
+        }
+        .body-news-area .owl-nav button.owl-prev {
+            position: absolute;
+            left: 0px;
+            outline: none;
+        }
+        .hero-slider .owl-dots {
+            width: 100%;
+            position: absolute;
+            text-align: center;
+            bottom: 0px;
+        }
+        .product-name h4 {
+            font-size: 14px;
+        }
+        .product-price h6 {
+            color: #f57224;
+            font-size: 13px;
+        }
+        .comparison-phone-name h4 {
+            font-size: 14px;
+        }
+        .comparison-content {
+            padding: 5px 0;
+        }
+        .news-content a {
+            font-size: 16px;
+            padding: 10px 0;
+            display: inline-block;
+            padding-top: 0px;
+        }
+        .news-content p {
+            font-size: 12px;
+        }
+        .comparison-c-bottom {
+            padding: 7px 0;
+        }
+        .nav-toggle .nav-toggle-bar,
+        .nav-toggle .nav-toggle-bar::after,
+        .nav-toggle .nav-toggle-bar::before {
+            width: 30px;
+        }
+        .nav-toggle.expanded .nav-toggle-bar::before {
+            width: 30px;
+        }
+        .nav-toggle.expanded .nav-toggle-bar::after {
+            width: 30px;
+        }
+        .product-price h6 {
+            font-size: 13px;
+        }
+        .product-btn a {
+            padding: 5px 5px;
+        }
+        .mobile-search-box-area {
+            height: 2%;
+        }
+        button.mobil-search-show {
+            display: block;
+        }
+        .header-search-bar.product-search button {
+            display: none;
+        }
+        button#mobile-btn-show {
+            display: block;
+        }
+        .pagination-btn a {
+            padding: 3px 7px;
+            font-size: 13px;
+        }
+        .footer-copyright-padding {
+            width: 90%;
+            margin: 0 auto;
+            padding: 10px 0;
+            display: block!important;
+        }
+        .copyright-right.d-flex.justify-content-between {
+            display: block!important;
+        }
+        .copyright-right a {
+            color: #fff;
+            padding: 0 3px;
+            font-size: 13px!important;
+        }
+        .footer-bottom-wrap {
+            background: #333333;
+            text-align: center;
+        }
+        .download-app {
+            margin-bottom: 15px;
+            display: block!important;
+        }
+        .footer-top-area h3 {
+            color: #fff;
+            position: relative;
+            display: inline-block;
+            font-size: 25px;
+            margin-bottom: 24px;
+        }
+    }
+    
+    @media only screen and (min-width: 361px) and (max-width: 400px) {
+        header.header-main-area .header-logo img {
+            width: 90px;
+        }
+        .header-search-bar input {
+            display: none;
+        }
+        .slider-single-item {
+            width: 100%;
+            height: 200px;
+        }
+        .slider-single-item img {
+            height: 100%;
+        }
+        .product-title h3 {
+            font-size: 13px;
+            font-weight: 700;
+            color: #f57224;
+        }
+        .product-search input {
+            border: none;
+            width: 132px;
+            height: 40px;
+            display: none;
+        }
+        .product-navbar ul li span {
+            padding: 5px 2px;
+            display: inline-block;
+            font-size: 11px;
+        }
+        button.btn {
+            padding: 5px 2px;
+            font-size: 11px;
+        }
+        .product-navbar ul li {
+            margin: 0px 2px;
+            font-size: 10px;
+            padding: 3px 2px;
+        }
+        .product-search button {
+            height: 25px;
+            width: 25px;
+        }
+        .product-hover-nav-icon-show {
+            position: absolute;
+            background: #f57224;
+            top: 0;
+            height: 100%;
+            right: -5px;
+            width: 15px;
+            text-align: center;
+            padding: 3px;
+            border-radius: 0px 10px 10px 0;
+        }
+        .product-top {
+            padding: 20px 5px;
+        }
+        .nav-toggle {
+            width: 30px;
+            height: 45px;
+        }
+        .hero-slider .owl-dots {
+            width: 100%;
+            position: absolute;
+            text-align: center;
+            bottom: 0px;
+        }
+        .product-name h4 {
+            font-size: 14px;
+        }
+        .product-price h6 {
+            color: #f57224;
+            font-size: 13px;
+        }
+        .comparison-phone-name h4 {
+            font-size: 14px;
+        }
+        .comparison-content {
+            padding: 5px 0;
+        }
+        .news-content a {
+            font-size: 16px;
+            padding: 10px 0;
+            display: inline-block;
+            padding-top: 0px;
+        }
+        .news-content p {
+            font-size: 12px;
+        }
+        .comparison-c-bottom {
+            padding: 7px 0;
+        }
+        .nav-toggle .nav-toggle-bar,
+        .nav-toggle .nav-toggle-bar::after,
+        .nav-toggle .nav-toggle-bar::before {
+            width: 30px;
+        }
+        .nav-toggle.expanded .nav-toggle-bar::before {
+            width: 30px;
+        }
+        .nav-toggle.expanded .nav-toggle-bar::after {
+            width: 30px;
+        }
+        .product-btn a {
+            padding: 5px 5px;
+        }
+        .mobile-search-box-area {
+            height: 2%;
+        }
+        button.mobil-search-show {
+            display: block;
+        }
+        .header-search-bar.product-search button {
+            display: none;
+        }
+        button#mobile-btn-show {
+            display: block;
+        }
+        .pagination-btn a {
+            padding: 3px 7px;
+            font-size: 13px;
+        }
+        .footer-copyright-padding {
+            width: 90%;
+            margin: 0 auto;
+            padding: 10px 0;
+            display: block!important;
+        }
+        .copyright-right.d-flex.justify-content-between {
+            display: block!important;
+        }
+        .copyright-right a {
+            color: #fff;
+            padding: 0 3px;
+            font-size: 13px!important;
+        }
+        .footer-bottom-wrap {
+            background: #333333;
+            text-align: center;
+        }
+        .download-app {
+            margin-bottom: 15px;
+            display: block!important;
+        }
+        .footer-top-area h3 {
+            color: #fff;
+            position: relative;
+            display: inline-block;
+            font-size: 25px;
+            margin-bottom: 24px;
+        }
+    }
+    
+    @media only screen and (min-width: 250px) and (max-width: 360px) {
+        .footer-copyright-padding {
+            width: 90%;
+            margin: 0 auto;
+            padding: 10px 0;
+            display: block!important;
+        }
+        header.header-main-area .header-logo img {
+            width: 90px;
+        }
+        .header-search-bar input {
+            display: none;
+        }
+        .slider-single-item {
+            width: 100%;
+            height: 200px;
+        }
+        .slider-single-item img {
+            height: 100%;
+        }
+        .product-title h3 {
+            font-size: 11px;
+            font-weight: 700;
+            color: #f57224;
+        }
+        .product-search input {
+            border: none;
+            width: 132px;
+            height: 40px;
+            display: none;
+        }
+        .product-navbar ul li span {
+            padding: 5px 5px;
+            display: inline-block;
+            font-size: 10px;
+        }
+        button.btn {
+            padding: 5px;
+            font-size: 10px;
+        }
+        .product-navbar ul li {
+            margin: 0px 2px;
+            font-size: 10px;
+            padding: 2px 3px;
+        }
+        .product-main-wrap {
+            width: 100%;
+            margin: 0 auto;
+        }
+        .product-search button {
+            height: 20px;
+            width: 20px;
+            display: none;
+            font-size: 12px;
+        }
+        button.mobile-search-show {
+            display: block;
+        }
+        .product-top {
+            padding: 20px 0px;
+        }
+        .nav-toggle {
+            width: 30px;
+            height: 45px;
+        }
+        .hero-slider .owl-dots {
+            width: 100%;
+            position: absolute;
+            text-align: center;
+            bottom: 0px;
+        }
+        .product-name h4 {
+            font-size: 14px;
+        }
+        .product-price h6 {
+            color: #f57224;
+            font-size: 13px;
+        }
+        .comparison-phone-name h4 {
+            font-size: 14px;
+        }
+        .comparison-content {
+            padding: 5px 0;
+        }
+        .news-content a {
+            font-size: 16px;
+            padding: 10px 0;
+            display: inline-block;
+            padding-top: 0px;
+        }
+        .news-content p {
+            font-size: 12px;
+        }
+        .comparison-c-bottom {
+            padding: 7px 0;
+        }
+        .nav-toggle .nav-toggle-bar,
+        .nav-toggle .nav-toggle-bar::after,
+        .nav-toggle .nav-toggle-bar::before {
+            width: 30px;
+        }
+        .nav-toggle.expanded .nav-toggle-bar::before {
+            width: 30px;
+        }
+        .nav-toggle.expanded .nav-toggle-bar::after {
+            width: 30px;
+        }
+        .product-btn a {
+            padding: 5px 5px;
+            font-size: 11px;
+        }
+        .mobile-search-box-area {
+            height: 2%;
+        }
+        button.mobil-search-show {
+            display: block;
+        }
+        .header-search-bar.product-search button {
+            display: none;
+        }
+        button#mobile-btn-show {
+            display: block;
+        }
+        .pagination-btn a {
+            padding: 3px 7px;
+            font-size: 13px;
+        }
+        .product-hover-nav-icon-show {
+            display: none;
+        }
+        .copyright-right.d-flex.justify-content-between {
+            display: block!important;
+        }
+        .copyright-right a {
+            color: #fff;
+            padding: 0 3px;
+            font-size: 13px!important;
+        }
+        .footer-bottom-wrap {
+            background: #333333;
+            text-align: center;
+        }
+        .download-app {
+            margin-bottom: 15px;
+            display: block!important;
+        }
+        .footer-top-area h3 {
+            color: #fff;
+            position: relative;
+            display: inline-block;
+            font-size: 25px;
+            margin-bottom: 24px;
+        }
+    }
